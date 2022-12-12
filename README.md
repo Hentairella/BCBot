@@ -1,4 +1,7 @@
-# BC-BOT-repository
+# BC Bot
+
+## This is a fork of keykey5's github project of a Bot for BC
+https://github.com/keykey5/BC-BOT-repository
 
 Currently available BOTs:
 * Denial Bar
